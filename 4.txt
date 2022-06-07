@@ -1,1 +1,5 @@
-Hello how are you. this is fourth file adding this
+<<<<<<< HEAD
+Hello how are you. this is fourth file 
+=======
+Hello how are you. this is fourth file adding this in file
+>>>>>>> feature-A
